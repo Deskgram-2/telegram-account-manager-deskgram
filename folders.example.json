@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "warm-accounts",
+      "description": "Аккаунты для мягких ежедневных сценариев"
+    },
+    {
+      "name": "outreach",
+      "description": "Аккаунты для коммуникаций и личных рассылок"
+    },
+    {
+      "name": "invite-pool",
+      "description": "Аккаунты для инвайта и задач роста"
+    }
+  ]
+}
