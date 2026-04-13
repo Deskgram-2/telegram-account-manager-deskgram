@@ -33,6 +33,14 @@
 4. При необходимости выполните массовые действия через тулбар.
 5. Передайте подготовленные аккаунты в рабочий модуль.
 
+## Куда вести подготовленные аккаунты дальше
+
+- [Вступление в группы](https://github.com/Deskgram-2/telegram-join-groups-deskgram), если сначала нужно подготовить участие аккаунтов в сообществах;
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если следующая задача — собрать базу пользователей;
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если аккаунты готовятся под массовую коммуникацию;
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если база уже готова и нужен рост групп или каналов;
+- [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram), если аккаунты пойдут в AI-сценарии активности.
+
 ## Интерфейс раздела
 
 ### Главный экран
@@ -75,6 +83,9 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
+- [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram)
 
 ## FAQ
 
