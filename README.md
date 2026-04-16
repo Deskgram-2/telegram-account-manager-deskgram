@@ -4,7 +4,14 @@
 
 Панель аккаунтов в Deskgram 2 — это инфраструктурный раздел для добавления, организации, фильтрации и массового управления Telegram-аккаунтами. Здесь начинается почти любой рабочий сценарий: от подготовки сетки аккаунтов до запуска рассылок, инвайта и AI-модулей.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+## Интерактивный Web Preview
+
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Faccounts)
+
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Faccounts)
+
+
 
 ## Кратко о разделе
 
